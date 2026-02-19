@@ -8,18 +8,6 @@
 - **Custom Post Type**: Dedicated "Dashboards" menu in the WordPress admin for easy management.
 - **Dynamic Grid Logic**: Support for customizable column counts via shortcode attributes.
 - **Responsive Design**: Gracefully transitions from 4 columns on desktop to a single column on mobile.
----
-
-## 🛠 Installation
-
-1. Clone the repository into your WordPress plugins directory:
-
-   cd wp-content/plugins
-   git clone https://github.com/Muchwat/dashboard-grid.git
-
-2. Activate the plugin through the **Plugins** menu in WordPress.
-3. Go to **Dashboards > Categories** to create your groups (e.g., ai, ip).
-4. Add a new Dashboard, upload a thumbnail, and paste your Tableau/PowerBI link in the provided meta box.
 
 ---
 
